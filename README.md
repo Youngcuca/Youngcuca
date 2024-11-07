@@ -1,4 +1,4 @@
-#- 👋 Hola , Soy @Youngcuca
+👋 Hola , Soy @Youngcuca
 ## **TECNÓLOGO EN PRODUCCION DE MULTIMEDIA** incurcionando en el mundo del Github
 -**@Youngcucafilms
 -**Fotógrafo(a)
