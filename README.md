@@ -8,8 +8,8 @@
 **🎥 Cinematograper 🎥**
 **🎬 Director 🎬**
 **💻 Editor 💻**
-(center)**🎨 Colorist 🎨**(center)
-(center)**📹 Vlogger 📹**(center)
+**🎨 Colorist 🎨**
+**📹 Vlogger 📹**
 
 
 
