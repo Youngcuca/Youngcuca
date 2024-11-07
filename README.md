@@ -19,7 +19,7 @@
 - [Pexels](https://www.pexels.com/es-es/@youngcucafilms-1091646142/)
 - [Youpic](https://youpic.com/youngcucafilms)
 
--[Redes]-(Facebook), (Instagram) , Etc...
+-[Redes]-, -(Instagram)[https://www.instagram.com/youngcucafilms/] , Etc...
 >**Proximamente** : Ing Multimedia.
 -👋👀🌱💞️📫😄⚡
 <!---
