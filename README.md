@@ -11,8 +11,8 @@
 **-🎨 Colorist 🎨**
 **-📹 Vlogger 📹**
 
-
-
+<a href="https://[www.linkedin.com/in/breimerct](https://linktr.ee/Youngcucafilms?fbclid=PAZXh0bgNhZW0CMTEAAaZGWnaMhI4fYjwG5ySS_3yZ78nl8mbjHgNZOUJ2qlNa21K_F_LuHBnKhi8_aem_EvCNC0sBHM8Re2TVIYspTg)/" rel="correo">[https://img.shields.io/badge/linktree-43E55E?style=flat&logo=linktree&logoColor=white]
+<a href="https://www.linkedin.com/in/breimerct/" rel="correo">![Linkein](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 - 👀 [Portafolio](https://drive.google.com/drive/folders/1GOocN0ug3b5xjQhjYifBr4Mbwg3fy6Th)
 - 👀 [Redes donde podras vizualizar mis trabajos](https://linktr.ee/Youngcucafilms?fbclid=PAZXh0bgNhZW0CMTEAAaZKuPxjlvIGmzdr2LPWCCfHpYXK44bkYJVaaLayq6qNCap5kxC9RvEQRy0_aem_cyPFjrM0o1RwUgf7c9710g)
 - ![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=flat&logo=pinterest&logoColor=white)[https://co.pinterest.com/Youngcucafilms/]
