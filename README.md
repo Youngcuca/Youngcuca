@@ -1,10 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FF3737&height=200&section=header&text=👾Hola%20Mundo&fontAlignY=35&fontSize=70&animation=fadeIn&fontColor=FFFFFF&descAlignY=55)
-!👋 Hola , Soy @Youngcuca
-!## **TECNÓLOGO EN PRODUCCION DE MULTIMEDIA** incurcionando en el mundo del Github
-!**-@Youngcucafilms**
-!**-Fotógrafo**
-!**-BOOKING/CONTRATOS**
-!**-DM mensaje 📩**
+<br>
+👋 Hola , Soy @Youngcuca
+## **TECNÓLOGO EN PRODUCCION DE MULTIMEDIA** incurcionando en el mundo del Github
+**-@Youngcucafilms**
+**-Fotógrafo**
+**-BOOKING/CONTRATOS**
+**-DM mensaje 📩**
 **-©️ Ceo ©️ 📸 youngcuca 📸**
 **-🎥 Cinematograper 🎥**
 **-🎬 Director 🎬**
