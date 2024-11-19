@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FF3737&height=200&section=header&text=👾Hola%20Gente&fontAlignY=35&fontSize=70&animation=fadeIn&fontColor=FFFFFF&descAlignY=55)
 <br>
 👋 Hola , Soy @Youngcuca 💻
-<center># **TECNÓLOGO EN PRODUCCION DE MULTIMEDIA**</center>
-*incurcionando en el mundo del Github*
+# **TECNÓLOGO EN PRODUCCION DE MULTIMEDIA**
+<br>*incurcionando en el mundo del Github*
 ### 🙋🏻‍♂️Sobre mí
 <br>**-@Youngcucafilms**
 <br>**-Fotógrafo**
@@ -15,9 +15,14 @@
 <br>**-🎨 Colorist 🎨**
 <br>**-📹 Vlogger 📹**
 
+### 💬Puedes contactarme por...
+<a href="https://[www.linkedin.com/in//miguel-henao-57553a171/]/" rel="correo">![Linkein](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<br><a href="mianhega99@gmail.com" rel="correo">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+
+
 ## 
 
-<br><a href="mianhega99@gmail.com" rel="correo">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+
 <br><a href="PAZXh0bgNhZW0CMTEAAaZGWnaMhI4fYjwG5ySS_3yZ78nl8mbjHgNZOUJ2qlNa21K_F_LuHBnKhi8_aem_EvCNC0sBHM8Re2TVIYspTg/" rel="correo">![Linktree]([https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/linktree-43E55E?style=flat&logo=linktree&logoColor=white))</a>
 - 👀 [Portafolio](https://drive.google.com/drive/folders/1GOocN0ug3b5xjQhjYifBr4Mbwg3fy6Th)
 - 👀 [Redes donde podras vizualizar mis trabajos](https://linktr.ee/Youngcucafilms?fbclid=PAZXh0bgNhZW0CMTEAAaZKuPxjlvIGmzdr2LPWCCfHpYXK44bkYJVaaLayq6qNCap5kxC9RvEQRy0_aem_cyPFjrM0o1RwUgf7c9710g)
@@ -29,7 +34,6 @@
 
 
 
-<center>Este texto está centrado.</center>
 <br>align-items: center; /* Centra verticalmente */ 📖Estudios y Mas...
 <br>1. INMERSION A LA FOTOGRAFIA DIGITAL
 <br>2. ENGLISH DOT WORKS 1 (INGLES)
