@@ -1,12 +1,17 @@
+<html>
+<head>
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FF3737&height=200&section=header&text=👾Hola%20Gente&fontAlignY=35&fontSize=70&animation=fadeIn&fontColor=FFFFFF&descAlignY=55)
 <br>
 👋 Hola , Soy @Youngcuca 💻
 # **TECNÓLOGO EN PRODUCCION DE MULTIMEDIA**
 <br>*incurcionando en el mundo del Github*
+</head>
+
 
 <body>
 <div class="container mt-3">
-<p class="text-center">🙋🏻‍♂️Sobre mí</p>
+<p class="text-center">Center-aligned text.</p>🙋🏻‍♂️Sobre mí
 <br>**-@Youngcucafilms**
 <br>**-Fotógrafo**
 <br>**-BOOKING/CONTRATOS**
@@ -69,3 +74,4 @@
 Youngcuca/Youngcuca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+</html>
