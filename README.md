@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FF3737&height=200&section=header&text=👾Hola%20Gente&fontAlignY=35&fontSize=70&animation=fadeIn&fontColor=FFFFFF&descAlignY=55)
 <br>
 👋 Hola , Soy @Youngcuca 💻
-# **TECNÓLOGO EN PRODUCCION DE MULTIMEDIA**
+<center># **TECNÓLOGO EN PRODUCCION DE MULTIMEDIA**</center>
 *incurcionando en el mundo del Github*
 ### 🙋🏻‍♂️Sobre mí
 <br>**-@Youngcucafilms**
