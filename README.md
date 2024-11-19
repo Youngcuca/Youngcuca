@@ -17,7 +17,7 @@
 
 ### 💬Puedes contactarme por...
 <a href="https://[www.linkedin.com/in//miguel-henao-57553a171/]/" rel="correo">![Linkein](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<br><a href="mianhega99@gmail.com" rel="correo">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="mianhega99@gmail.com" rel="correo">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 
 ## 
