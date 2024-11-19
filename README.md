@@ -33,8 +33,8 @@
 
 
 
-
-📖Estudios y Mas...
+<br>
+ ##📖Estudios y Mas...
 <br>1. INMERSION A LA FOTOGRAFIA DIGITAL
 <br>2. ENGLISH DOT WORKS 1 (INGLES)
 <br>3. AJUSTES DE COLOR Y EDICION DE IMAGENES
