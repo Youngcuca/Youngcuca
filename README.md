@@ -3,7 +3,8 @@
 👋 Hola , Soy @Youngcuca 💻
 # **TECNÓLOGO EN PRODUCCION DE MULTIMEDIA**
 <br>*incurcionando en el mundo del Github*
-<.text-center>###  🙋🏻‍♂️Sobre mí</.text-center>
+
+<p class="text-center">🙋🏻‍♂️Sobre mí</p>
 <br>**-@Youngcucafilms**
 <br>**-Fotógrafo**
 <br>**-BOOKING/CONTRATOS**
