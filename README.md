@@ -3,7 +3,7 @@
 👋 Hola , Soy @Youngcuca 💻
 # **TECNÓLOGO EN PRODUCCION DE MULTIMEDIA**
 <br>*incurcionando en el mundo del Github*
-### 🙋🏻‍♂️Sobre mí
+###  🙋🏻‍♂️Sobre mí
 <br>**-@Youngcucafilms**
 <br>**-Fotógrafo**
 <br>**-BOOKING/CONTRATOS**
@@ -15,7 +15,7 @@
 <br>**-🎨 Colorist 🎨**
 <br>**-📹 Vlogger 📹**
 
-### 💬Puedes contactarme por...
+###  💬Puedes contactarme por...
 <a href="https://[www.linkedin.com/in//miguel-henao-57553a171/]/" rel="correo">![Linkein](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mianhega99@gmail.com" rel="correo">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
@@ -33,8 +33,8 @@
 
 
 
-<br>
-## 📖Estudios y Mas...
+
+##  📖Estudios y Mas...
 <br>1. INMERSION A LA FOTOGRAFIA DIGITAL
 <br>2. ENGLISH DOT WORKS 1 (INGLES)
 <br>3. AJUSTES DE COLOR Y EDICION DE IMAGENES
