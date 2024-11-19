@@ -4,6 +4,7 @@
 # **TECNÓLOGO EN PRODUCCION DE MULTIMEDIA**
 <br>*incurcionando en el mundo del Github*
 
+<body>
 <div class="container mt-3">
 <p class="text-center">🙋🏻‍♂️Sobre mí</p>
 <br>**-@Youngcucafilms**
@@ -17,6 +18,7 @@
 <br>**-🎨 Colorist 🎨**
 <br>**-📹 Vlogger 📹**
 </div>
+</body>
 
 ###  💬Puedes contactarme por...
 <a href="https://[www.linkedin.com/in//miguel-henao-57553a171/]/" rel="correo">![Linkein](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
