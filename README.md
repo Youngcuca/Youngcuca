@@ -2,16 +2,16 @@
 <br>
 👋 Hola , Soy @Youngcuca
 ## **TECNÓLOGO EN PRODUCCION DE MULTIMEDIA** incurcionando en el mundo del Github
-<br>**-@Youngcucafilms**
-<br>**-Fotógrafo**
-<br>**-BOOKING/CONTRATOS**
-<br>**-DM mensaje 📩**
-<br>**-©️ Ceo ©️ 📸 youngcuca 📸**
-<br>**-🎥 Cinematograper 🎥**
-<br>**-🎬 Director 🎬**
-<br>**-💻 Editor 💻**
-<br>**-🎨 Colorist 🎨**
-<br>**-📹 Vlogger 📹**
+<br><center>**-@Youngcucafilms**</center>
+<br><center>**-Fotógrafo**</center>
+<br><center>**-BOOKING/CONTRATOS**</center>
+<br><center>**-DM mensaje 📩**</center>
+<br><center>**-©️ Ceo ©️ 📸 youngcuca 📸**</center>
+<br><center>**-🎥 Cinematograper 🎥**</center>
+<br><center>**-🎬 Director 🎬**</center>
+<br><center>**-💻 Editor 💻**</center>
+<br><center>**-🎨 Colorist 🎨**</center>
+<br><center>**-📹 Vlogger 📹**</center>
 
 ## 
 <a href="mianhega99@gmail.com" rel="correo">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
