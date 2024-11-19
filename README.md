@@ -13,7 +13,7 @@
 **-🎨 Colorist 🎨**
 **-📹 Vlogger 📹**
 
-## **
+## 
 <a href="mianhega99@gmail.com" rel="correo">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="PAZXh0bgNhZW0CMTEAAaZGWnaMhI4fYjwG5ySS_3yZ78nl8mbjHgNZOUJ2qlNa21K_F_LuHBnKhi8_aem_EvCNC0sBHM8Re2TVIYspTg/" rel="correo">![Linktree]([https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/linktree-43E55E?style=flat&logo=linktree&logoColor=white))</a>
 - 👀 [Portafolio](https://drive.google.com/drive/folders/1GOocN0ug3b5xjQhjYifBr4Mbwg3fy6Th)
